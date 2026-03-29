@@ -39,4 +39,4 @@ Here you can find some of the projects I have worked on, ranging from stochastic
 ## 🤝 Let's Connect!
  
 I am always open to collaboration and new opportunities in the field of actuarial science.  
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/marie-meyer-031687231) or explore my repositories here on GitHub to learn more about my work.
+Feel free to contact me.
